@@ -26,4 +26,5 @@ Used Apps:
 
 
                                      DOWNLOAD
-Public Beta 1 for Minecraft 1.12.2: https://github.com/glowiak/the-end-update-mod/releases/download/pubeta-1-Jii/the-end-update-mod-public-beta-1.jar
+Public Beta 2 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-2.jar
+Public Beta 1 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/releases/download/pubeta-1-Jii/the-end-update-mod-public-beta-1.jar
