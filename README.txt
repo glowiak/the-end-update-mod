@@ -4,7 +4,7 @@ This is The End Update mod for Minecraft :D
 Additions:
 -Limestone
 -Limestone Bricks
--Purple End Vulcanic End Biomes (in Beta version of mod this biomes can generate in overworld)
+-Purple Forest, Vulcanic End Biomes and Purpur Fields (in Beta version of mod this biomes can generate in overworld)
 -New End Dimension (work in progress)
 -End Magma Block
 -End Purple Rock
