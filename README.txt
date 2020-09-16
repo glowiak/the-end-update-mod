@@ -41,4 +41,6 @@ https://minecraftfanon.fandom.com/wiki/Java_Edition_1.18:_The_End_Update
 I'm working on Public Beta 4 This will be in this release:
 -MobRepellant                   # Kill (with fly) all mobs in 11 blocks area around player when clicked. Durability: 9
 -aww man                        # Spawn a Creeper called "aww man..." 9 blocks over player. It's CREATIVE-ONLY item.
+-End Liquid                     # Fast and danger liquid from New End
 and more :D
+Update Cooming Today!
