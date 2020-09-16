@@ -31,3 +31,14 @@ Used Apps:
 Public Beta 3 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-3.jar
 Public Beta 2 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-2.jar
 Public Beta 1 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/releases/download/pubeta-1-Jii/the-end-update-mod-public-beta-1.jar
+
+Update Ideas used by me:
+https://www.youtube.com/watch?v=6vxF-arhJoc
+https://minecraftfanon.fandom.com/wiki/Minecraft_1.17:_End_Update
+https://minecraftfanon.fandom.com/wiki/Minecraft_1.17_(Nether_Update_Part_II)
+https://minecraftfanon.fandom.com/wiki/Java_Edition_1.18:_The_End_Update
+###########################################################################################
+I'm working on Public Beta 4 This will be in this release:
+-MobRepellant                   # Kill (with fly) all mobs in 11 blocks area around player when clicked. Durability: 9
+-aww man                        # Spawn a Creeper called "aww man..." 9 blocks over player. It's CREATIVE-ONLY item.
+and more :D
