@@ -20,6 +20,11 @@ Additions:
 -Cheese
 -Wither Powder
 -Purple and Vulcanic planks
+-End Liquid
+-Purpur Sprouts
+-Purpur Berries
+-Mob Repellant
+-aww man... (It's a joke item (I like 20w14infinite))
 
 
 Used Apps:
@@ -28,6 +33,7 @@ Used Apps:
 
 
                                      DOWNLOAD
+Public Beta 4 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-4.jar
 Public Beta 3 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-3.jar
 Public Beta 2 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-2.jar
 Public Beta 1 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/releases/download/pubeta-1-Jii/the-end-update-mod-public-beta-1.jar
@@ -44,3 +50,12 @@ I'm working on Public Beta 4 This will be in this release:
 -End Liquid                     # Fast and danger liquid from New End
 and more :D
 Update Cooming Today!
+
+I'll working on Public Beta 5. This will be in this release:
+-Rocket
+-Endergem
+-Bubble block
+-Bubble bricks
+-Obsidian bricks
+and more :D
+Update cooming tomorrow!
