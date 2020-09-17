@@ -59,3 +59,5 @@ I'll working on Public Beta 5. This will be in this release:
 -Obsidian bricks
 and more :D
 Update cooming tomorrow!
+
+Public Beta 5 will be large update, cooming today or tommorow!
