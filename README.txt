@@ -52,11 +52,14 @@ and more :D
 Update Cooming Today!
 
 I'll working on Public Beta 5. This will be in this release:
--Rocket
+-Rockets
 -Endergem
 -Bubble block
--Bubble bricks
 -Obsidian bricks
+-Steel
+-Fortresser
+-Bomb
+-Mine
 and more :D
 Update cooming tomorrow!
 
