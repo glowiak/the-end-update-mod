@@ -25,6 +25,21 @@ Additions:
 -Purpur Berries
 -Mob Repellant
 -aww man... (It's a joke item (I like 20w14infinite))
+-Fortresser
+-Obsidian Bricks
+-Safe Station
+-Small Rocket
+-Huge Rocket
+-Steel ingot
+-Steel block
+-Rocket engine
+-Double rocket engine
+-Endergem ore
+-Endergem
+-Overpowered Sword
+-Mine
+-Bomb
+-Bubble Block
 
 
 Used Apps:
@@ -33,6 +48,7 @@ Used Apps:
 
 
                                      DOWNLOAD
+Public Beta 5 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-5.jar
 Public Beta 4 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-4.jar
 Public Beta 3 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-3.jar
 Public Beta 2 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-2.jar
@@ -64,3 +80,5 @@ and more :D
 Update cooming tomorrow!
 
 Public Beta 5 will be large update, cooming today or tommorow!
+
+Public Beta 5 RELEASED!!!! :D :) :-)
