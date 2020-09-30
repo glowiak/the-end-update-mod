@@ -40,6 +40,8 @@ Additions:
 -Mine
 -Bomb
 -Bubble Block
+-Healther
+-Oil
 
 
 Used Apps:
@@ -48,6 +50,7 @@ Used Apps:
 
 
                                      DOWNLOAD
+Public Beta 6 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-6.jar
 Public Beta 5 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-5.jar
 Public Beta 4 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-4.jar
 Public Beta 3 for Minecraft 1.12.2: http://github.com/glowiak/the-end-update-mod/raw/master/the-end-update-mod-public-beta-3.jar
